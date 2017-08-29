@@ -1,0 +1,10 @@
+{
+  "name": "webpack-long-term-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chunk-manifest-webpack-plugin": "^1.1.2",
+    "webpack": "^3.5.5"
+  }
+}
